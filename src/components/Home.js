@@ -9,11 +9,11 @@ export default function Home() {
             <div id="div1" className="container">
                 <div className="Titulo" id="titulo">
                     <header>
-                        <h1>Grupo 16</h1>
+                        <h1>Grupo 8</h1>
                     </header>
                 </div>
                 <dl id="nav">
-                    <dt className="nav-item">Mecedo Facundo</dt>
+                    <dt className="nav-item">Esteban Espada</dt>
                 </dl>
                 <div id="juego" >
                     <h1>Dude Phaser</h1>
